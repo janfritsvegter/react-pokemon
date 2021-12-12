@@ -1,0 +1,12 @@
+.pokemon-card{
+    text-align: center;
+    width: 190px;
+    margin: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: .25rem .5rem 1rem 0 rgba(0, 0, 0, 0.1);
+}
+
+.pokemon-card ul{
+    list-style: none;
+}
