@@ -1,0 +1,10 @@
+.stats-item{
+    list-style: disc;
+}
+.stats-item li{
+    display: flex;
+    flex-direction: row;
+}
+.stats-item p {
+    margin-right: 10px;
+}
